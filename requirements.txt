@@ -1,0 +1,6 @@
+openai
+requests
+Pillow
+numpy
+streamlit
+...
