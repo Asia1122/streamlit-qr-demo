@@ -1,5 +1,4 @@
 streamlit
 streamlit-webrtc
-opencv-python==4.8.0.76
-pyzbar
+opencv-python-headless==4.6.0.66  # 버전은 예시
 av
