@@ -1,6 +1,5 @@
-openai
-requests
-Pillow
-numpy
 streamlit
-...
+streamlit-webrtc
+opencv-python
+pyzbar
+av
